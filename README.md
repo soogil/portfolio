@@ -6,9 +6,9 @@
 - [경력](https://github.com/soogil/soogil/main/README.md#-경력)
 
 
-## [***사용 기술 및 툴***]
+## 사용 기술 및 툴
 
- 11 | 기술 및 툴 
+ - | 기술 및 툴 
 :---: | ---
 os | android 
 language | java, Dart 
@@ -19,7 +19,7 @@ design tool | zeplin
 db | mssql, sqlite 
 
   
-## [***경력***]
+## 경력
 
 ### 1. 와이즈패션 (스타트업)
   - 재직 기간 : 2019.07 ~ 2020.09
