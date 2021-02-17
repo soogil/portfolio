@@ -3,7 +3,7 @@
 
 
 ## 소개
-- [ 기술 및 툴](https://github.com/soogil/soogil/blob/main/README.md#1-습득-기술-및-툴)
+- [습 기술 및 툴](https://github.com/soogil/soogil/blob/main/README.md#1-습득-기술-및-툴)
 - [경력](https://github.com/soogil/soogil/blob/main/README.md#2-경력)
 
 
