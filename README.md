@@ -8,18 +8,20 @@
 
 ### 1. [***사용 기술 및 툴***]
 
-os | android
-language | java, Dart
-framework | flutter
-network | restful api, tcp-ip
-business | slack, notion, gitlab/source tree, svn, postman, google drive
-design tool | zeplin
-db | mssql, sqlite
+  | 기술 및 툴 
+:---: | ---
+os | android 
+language | java, Dart 
+framework | flutter 
+network | restful api, tcp-ip 
+business | slack, notion, gitlab/source tree, svn, postman, google drive 
+design tool | zeplin 
+db | mssql, sqlite 
 
   
 ### 2. [***경력***]
 
-1. 와이즈패션 (스타트업)
+#### 1. 와이즈패션 (스타트업)
   - 재직 기간 : 2019.07 ~ 2020.09
   - 부서 : 프론트엔드팀
   - 주요 업무 내용 : 동대문 도소매,사입에 필요한 서비스를 제공. 도매,소매,사입 주문서와 크롤링을 통해 빅데이터 수집 및 분석해서 특정 기간이나 계절에 잘팔린 상품을 보여줘서 소매,도매와 사입을 연결해주는 서비스를 제공했습니다. 
@@ -30,14 +32,16 @@ db | mssql, sqlite
 - business tool : slack, notion, gitlab/source tree, postman, google drive
 - design tool : zeplin
  
-2. 바나플
+#### 2. 바나플
   - 재직 기간 : 2016.03 ~ 2019.05
   - 부서 : 클라이언트 개발팀
   - 주요 업무 내용 : 대리기사와 대리운전 업체, 퀵서비스 기사와 퀵서비스 업체에 필요한 접수/배차/관제 등에 필요한 시스템을 개발 및 유지보수를 통해 고객에게 보다 편리하게 대리운전 및 퀵서비스를 제공하는 
     업무를 수행했습니다. 저는 주로 안드로이드 앱 유지보수 업무를 수행했고, 필요시 C++(MFC) 유지보수 및 기능추가 업무, 간단한 SQL 업무를 수행했습니다.
   - 담당업무
+
+
 담당 어플 | 업무 개요
-:----: | ----  
+:----: | ----
 집수리 뚝딱 | 인테리어 업체와 고객을 연결해주는 O2O 서비스 시공중계 앱
 로지D, 로지Q 등... | 대리기사, 퀵기사들에게 실시간으로 등록된 주문을 확인하여 배차 서비스를 제공해주는 앱
 바나플스 | 사내 전체공지나 개별공지, 정보 공유를 위한 앱 
@@ -49,7 +53,7 @@ db | mssql, sqlite
 - business tool : svn
 - design tool : ppt
 
-3. 대학교
+#### 3. 대학교
   - 대학교 : 충북대학교
   - 재학 기간 : 2010.03 ~ 2016.02
   - 전공 : 소프트웨어학과
