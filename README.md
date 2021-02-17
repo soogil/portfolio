@@ -2,13 +2,13 @@
 
 
 ## 소개
-- [사용 기술 및 툴](https://github.com/soogil/soogil/main/README.md#-사용-기술-및-툴)
-- [경력](https://github.com/soogil/soogil/main/README.md#-경력)
+- [사용 기술 및 툴](https://github.com/soogil/soogil/blob/main/README.md#-사용-기술-및-툴)
+- [경력](https://github.com/soogil/soogil/blob/main/README.md#-경력)
 
 
 ## 사용 기술 및 툴
 
- - | 기술 및 툴 
+ -- | 기술 및 툴 
 :---: | ---
 os | android 
 language | java, Dart 
