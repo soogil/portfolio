@@ -29,12 +29,19 @@ db | mssql, sqlite
   - 부서 : 프론트엔드팀
   - 주요 업무 내용 : 동대문 도소매,사입에 필요한 서비스를 제공. 도매,소매,사입 주문서와 크롤링을 통해 빅데이터 수집 및 분석해서 특정 기간이나 계절에 잘팔린 상품을 보여줘서 소매,도매와 사입을 연결해주는 서비스를 제공했습니다. 
   - 담당 업무 : MDLens소매, MDLens도매 앱의 flutter UI 작업을 진행했고, native 작업과 앱의 배포는 팀장님께서 진행하셨고 앱에 필요한 서비스나 위젯을 라이브러리를 거의 사용하지 않고 커스텀으로 만들어서 진행했습니다. 상태관리는 provider나 bloc을 사용하지않고 scoped model을 사용해서 관리했습니다. 작업했던 위젯들은 차차 git에 업데이트 하겠습니다.
- 
+
+담당 어플 | 업무 개요
+:----: | ----
+MDLens 소매 | 소매 업체를 위해 도매 업체의 상품 중 주간 월간 등...의 베스트 상품의 정보를 추천해주는 앱
+MDLens 도매 | 도매 업체 관리를 위한 앱으로 소매 업체에 노출되는 상품 관리 및 도매 관리를 도와주는 앱
+
+  - 사용 기술 및 툴
 -- | 기술 및 툴 
 :---: | ---
 language | dart 
 network | restful api
 business | slack, notion, gitlab/source tree, postman, google drive 
+service & api | fcm, dynamic link(deeplink)
 design tool | zeplin 
 
 
